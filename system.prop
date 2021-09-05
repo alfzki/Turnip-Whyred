@@ -1,0 +1,2 @@
+#disable UI rendering with vulkan
+debug.hwui.renderer=skiagl

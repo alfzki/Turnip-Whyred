@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=Turnip-Whyred
+name=Freedreno Turnip (Mesa Vulkan Driver) for Whyred
+version=v0.1
+versionCode=1
+author=alfzki
+description=Systemlessly replace proprietary vulkan driver with Freedreno's vulkan driver
+support=https://github.com/alfzki/Turnip-Whyred
