@@ -2,7 +2,7 @@
 A magisk module to install Freedreno Turnip (Mesa Vulkan Driver) for Redmi Note 5 Pro/Redmi Note 5 AI Dual Camera (whyred) 
 
 ## Warning
-You can't use OpenGL/OpenGL ES driver with this module installed 
+For Android 11 only
 
 ## Installation 
 Install via magisk manager
